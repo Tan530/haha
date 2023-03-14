@@ -10,8 +10,9 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        <h1>Test</h1>
         <?php
-        // put your code here
+        
         $hello = "Hello ";
         $name = "Xiong";
         echo $hello .", " . $name; 
