@@ -10,7 +10,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
     </head>
     <body>
         <?php
-        <p>Test change something</p>
+        // put your code here
         ?>
     </body>
 </html>
